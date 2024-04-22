@@ -1,2 +1,2 @@
-Driver: Raza
-Navigator: Freddy
+Driver: Raza Muhammed
+Navigator: Freddy Mercado
